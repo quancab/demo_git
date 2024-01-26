@@ -5,7 +5,7 @@ variable1 = 1
 variable2 = 2
 variable3 = 3
 variable4 = 4
-variable5 = abc adda
+variable5 = aaa
 variable5 = abc
 variable5 = def
 # In giá trị của các biến
