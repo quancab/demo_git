@@ -1,2 +1,0 @@
-helloword
-y = 6
