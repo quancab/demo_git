@@ -1,4 +1,4 @@
-variable1 = 1
+variable1 = 2
 variable2 = 2
 variable3 = 3
 variable4 = 4
