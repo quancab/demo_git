@@ -2,7 +2,7 @@ variable1 = 2
 variable2 = 2
 variable3 = 3
 variable4 = 4
-
+variable4 = 4
 variable4 = 5
 
 variable5 = new new
