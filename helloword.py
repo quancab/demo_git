@@ -7,7 +7,7 @@ variable3 = 3
 variable4 = 4
 variable5 = abc
 variable4 = new new new
-add - 111=?
+variable5 = 5
 # In giá trị của các biến
 print("Biến 1:", variable1)
 print("Biến 2:", variable2)
