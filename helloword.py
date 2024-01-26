@@ -4,6 +4,7 @@ variable2 = 2
 variable3 = 3
 variable4 = 4
 variable5 = 5
+variable5 = 2307
 
 # In giá trị của các biến
 print("Biến 1:", variable1)
