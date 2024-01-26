@@ -15,5 +15,6 @@ print("Biến 2:", variable2)
 print("Biến 3:", variable3)
 print("Biến 4:", variable4)
 print("Biến 5:", variable5)
+print("Biến 5:", variable6)
 
 
