@@ -5,7 +5,7 @@ variable1 = 1
 variable2 = 2
 variable3 = 3
 variable4 = 4
-variable5 = 08082003
+variable5 = abc
 # In giá trị của các biến
 print("Biến 1:", variable1)
 print("Biến 2:", variable2)
